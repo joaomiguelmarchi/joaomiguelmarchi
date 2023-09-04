@@ -3,7 +3,7 @@
 ### About me
 
 
-- 🔭 I currently work as a mobile trainee developer at Lince Tech in Gaspar SC
+- 🔭 I currently work as a trainee mobile developer at Lince Tech in Gaspar SC
 - 📺 I'm currently focused on Frontend development
 - 🎲 Knowledge in relational database: SQLite, Microsoft SQL server management and MySQL
 - 📫 If you want to contact me, send me an email, I'll be happy to answer: jmsmarchi@gmail.com </br>
