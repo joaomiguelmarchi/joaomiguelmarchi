@@ -1,9 +1,33 @@
-# Bem Vindo!
+### Hi! my name is João Miguel Steffen Marchi 👋
 
-🤓Estudo no IFSC, estou na quinta fase do curso técnico em informática!
-<br>
-😋Tenho conhecimento intermediário em JAVA e estou estudando banco de dados relacional MySQL.
-<br>
-🥵🤡😽💩👺
-<br>
-## Obrigado!
+### About me
+
+
+- 🔭 I currently work as a mobile trainee delevoper at Lince Tech in Gaspar SC
+- 📺 I'm currently focused on Frontend development
+- 🎲 Knowledge in relational database: SQLite, Microsoft SQL server management and MySQL
+- 📫 If you want to contact me, send me an email, I'll be happy to answer: jmsmarchi@gmail.com </br>
+
+
+
+<div align="center">
+  <a href="https://github.com/joaomiguelmarchi">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=joaomiguelmarchi&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&border_radius=0px"
+       />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomiguelmarchi&layout=compact&langs_count=7&theme=synthwave&border_radius=0px"/>
+</div>
+  
+  <h1>Skills</h1>
+  <div style="display: inline_block"><br>
+  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" alt="KOTLIN" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+  <img align="center" alt="AndroidStudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" /> 
+  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+  <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+  <img align="center" alt="JAVASCRIPT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="REACT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" alt="SPRING-BOOT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  <img align="center" alt="VSCODE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img align="center" alt="INTELLIJ" height="30" src="https://img.icons8.com/fluency/96/null/intellij-idea.png"/>
+          
+  </div>
